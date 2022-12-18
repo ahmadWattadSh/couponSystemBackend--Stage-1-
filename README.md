@@ -1,6 +1,6 @@
 # Coupon System Backend Project
 
-In this part of the project we created a program where 
+In this part of the project we created a program where the admin, company and users are able to use commands through the intelleji.
 
 # FOR USER:
 
